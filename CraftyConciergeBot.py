@@ -7,12 +7,12 @@
 # Compatible:
 # Requirements:     discord.py
 #                   python-dotenv
-# Version: 0.1.0
+# Version: 0.1.1
 # Author: Kevin Bowen <kevin.bowen@gmail.com>
 #
 # Original source:
 #       https://realpython.com/how-to-make-a-discord-bot-python/
-# Updated: 20190915
+# Updated: 20190916
 #
 # }}} ----------------------------------------------------------------- #
 
