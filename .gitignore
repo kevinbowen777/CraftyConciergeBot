@@ -1,0 +1,12 @@
+MANIFEST
+archive
+build
+dist
+_build
+*.py[co]
+__pycache__
+*.bak
+*.swp
+*~
+*.log
+.env
